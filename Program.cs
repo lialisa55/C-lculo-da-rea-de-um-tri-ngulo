@@ -7,17 +7,14 @@ namespace Área_de_um_Triângulo
         static void Main(string[] args)
         {
             Console.WriteLine("Insira as medidas dos três lados");
-            string l1 = Console.ReadLine();
-            string l2 = Console.ReadLine();
-            string l3 = Console.ReadLine();
-            Convert.ToInt32(l1);
-            Convert.ToInt32(l2);
-            Convert.ToInt32(l3);
+            double a = double.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
+            double c = double.Parse(Console.ReadLine());
 
-            
-
-
-            int p = (l1 + l2 + l3) / 2;
+            double p = (a + b + c) / 2;
+            Console.WriteLine(p);
+            double area = (p*(p-a)*(p-b)*(p-c));
+            Console.WriteLine("A área do triângulo é: ", area);
 
 
         }

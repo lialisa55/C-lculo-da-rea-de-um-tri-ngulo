@@ -1,0 +1,16 @@
+F:\MODULO2\Área de um Triângulo\obj\Debug\net5.0\Área de um Triângulo.csproj.AssemblyReference.cache
+F:\MODULO2\Área de um Triângulo\obj\Debug\net5.0\Área de um Triângulo.GeneratedMSBuildEditorConfig.editorconfig
+F:\MODULO2\Área de um Triângulo\obj\Debug\net5.0\Área de um Triângulo.AssemblyInfoInputs.cache
+F:\MODULO2\Área de um Triângulo\obj\Debug\net5.0\Área de um Triângulo.AssemblyInfo.cs
+F:\MODULO2\Área de um Triângulo\obj\Debug\net5.0\Área de um Triângulo.csproj.CoreCompileInputs.cache
+F:\MODULO2\Área de um Triângulo\bin\Debug\net5.0\Área de um Triângulo.exe
+F:\MODULO2\Área de um Triângulo\bin\Debug\net5.0\Área de um Triângulo.deps.json
+F:\MODULO2\Área de um Triângulo\bin\Debug\net5.0\Área de um Triângulo.runtimeconfig.json
+F:\MODULO2\Área de um Triângulo\bin\Debug\net5.0\Área de um Triângulo.runtimeconfig.dev.json
+F:\MODULO2\Área de um Triângulo\bin\Debug\net5.0\Área de um Triângulo.dll
+F:\MODULO2\Área de um Triângulo\bin\Debug\net5.0\ref\Área de um Triângulo.dll
+F:\MODULO2\Área de um Triângulo\bin\Debug\net5.0\Área de um Triângulo.pdb
+F:\MODULO2\Área de um Triângulo\obj\Debug\net5.0\Área de um Triângulo.dll
+F:\MODULO2\Área de um Triângulo\obj\Debug\net5.0\ref\Área de um Triângulo.dll
+F:\MODULO2\Área de um Triângulo\obj\Debug\net5.0\Área de um Triângulo.pdb
+F:\MODULO2\Área de um Triângulo\obj\Debug\net5.0\Área de um Triângulo.genruntimeconfig.cache

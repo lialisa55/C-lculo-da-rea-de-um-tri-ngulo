@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Área de um Triângulo/1.0.0": {
+        "runtime": {
+          "Área de um Triângulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Área de um Triângulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
